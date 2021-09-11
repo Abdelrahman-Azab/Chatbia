@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965664693648",
+    "project_id": "chatbia-aeab1",
+    "storage_bucket": "chatbia-aeab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965664693648:android:5d0fd7f83d2cdfd9a6a715",
+        "android_client_info": {
+          "package_name": "com.example.android.chatbia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965664693648-a8s3mijt4csmfadf6p4ccpmkpc034879.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5yaPbd0PkL631sggtWlsyqY560AjGY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965664693648-a8s3mijt4csmfadf6p4ccpmkpc034879.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
